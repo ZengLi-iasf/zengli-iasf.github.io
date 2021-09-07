@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeng Li / Ph. D"
 title_separator          : "-"
 name                     : &name "Zeng Li"
-description              : &description "here is a personal description"
+description              : &description "Assistant Researcher at the Institute of Advanced Science Facilities (IASF)"
 url                      : https://zengli-iasf.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZengLi-iasf/zengli_iasf.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zeng Li"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant Researcher at the Institute of Advanced Science Facilities (IASF). Expert in Free-electron Laser (FEL), Accelerator Physics"
   location         : "Shenzhen, P.R. China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
